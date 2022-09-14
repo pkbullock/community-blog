@@ -319,7 +319,10 @@ We welcome all scripts on Microsoft 365 automation to this centralized repositor
 
 Here are the latest updates on the Script Samples:
 
-<!-- Paul, your script samples go in here :-) -->
+- New [Get notified in Microsoft Teams about SharePoint health incidents](https://pnp.github.io/script-samples/tenant-health-notify-teams/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
+- Updated [Ensure the Site Assets Library is created](https://pnp.github.io/script-samples/spo-ensure-siteassets-library/README.html) by [Martin Lingstuyl](https://twitter.com/martinlingstuyl)  | @martinlingstuyl
+- New [SPO Recover Deleted Meeting Recordings](https://pnp.github.io/script-samples/spo-recover-meeting-recordings/README.html) by [Jason Baxter](https://twitter.com/jasonwbaxter)  (Microsoft) | @jasonwbaxter
+- New [Microsoft Graph PowerShell SDK for Common Operations](https://pnp.github.io/script-samples/graph-common-operations/README.html) by [Nik Charlebois](https://twitter.com/NikCharlebois)  (Microsoft) | @NikCharlebois
 
 If you have any existing scripts which you'd be willing to share with others - please submit a pull request or contact the PnP team members to get started on getting more closely involved on this initiative.
 
@@ -526,6 +529,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   x[Ivan Wilson](https://twitter.com/IvanWilson) | @IvanWilson
 *   Jake Stanger | JakeStanger
 *   [James May](https://twitter.com/fowl2) | @fowl2
+*   [Jason Baxter](https://twitter.com/jasonwbaxter)  (Microsoft) | @jasonwbaxter
 *   Jarbas Horst | JarbasHorst
 *   [Jasey Waegebaert](https://github.com/Jwaegebaert) (GMI Group) | Jwaegebaert
 *   [Jim Duncan](https://www.twitter.com/sparchitect) (ShareSquared) | @Sparchitect
@@ -572,6 +576,7 @@ Thank you for your assistance and contributions on behalf of the community. You 
 *   xMorten Andersen | spcph
 *   [Musale Martin](https://twitter.com/m4musale) | @m4musale
 *   [Nanddeep Nachan](https://twitter.com/NanddeepNachan) | @nanddeepNachan
+*   [Nik Charlebois](https://twitter.com/NikCharlebois)  
 *   [Norm Young](https://twitter.com/stormin_30) | @stormin_30
 *   Ole Rühaak | ohaak2
 *   xOleksii Skirko
